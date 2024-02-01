@@ -1,6 +1,6 @@
 <div>👋 Hi, I’m @bcla9</div>
 <div>👀 I’m interested in Web Design.</div>
-<div>🌱 I’m currently learning "Introduction to Web Development".</div>
+<div>🌱 I’m currently learning "Javascript".</div>
 <div>💞️ I’m looking to collaborate on funny projects.</div>
 
 <!---
